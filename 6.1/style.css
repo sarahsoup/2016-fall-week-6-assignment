@@ -1,0 +1,20 @@
+.xAxis line {
+  stroke: #fff;
+}
+
+.xAxis path {
+  stroke: #fff;
+}
+
+.xAxis text {
+  font-size: 150%;
+  font-weight: 500;
+}
+
+.yAxis line {
+  stroke: #fff;
+}
+
+.yAxis path {
+  stroke: #fff;
+}
